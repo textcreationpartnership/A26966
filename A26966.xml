@@ -1,0 +1,341 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Royall poems presented to His Sacred Majesty Charles the II by J.G.B.</title>
+            <author>J. G. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26966</idno>
+            <idno type="STC">Wing B132</idno>
+            <idno type="STC">ESTC R28328</idno>
+            <idno type="EEBO-CITATION">10526092</idno>
+            <idno type="OCLC">ocm 10526092</idno>
+            <idno type="VID">45204</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26966)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45204)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1394:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Royall poems presented to His Sacred Majesty Charles the II by J.G.B.</title>
+                  <author>J. G. B.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Wood,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"1. On the Kings most excellent Majesties happy return to his Kingdomes. 2. Annagramma in principem, Carolus Stuartus, i.e. Arthur, Laus, Custes, 3. On the Lord Monck, Generalissimo of all His Majesties forces. 4. An elegie on the martyrdom of King Charles the First. 5. On the regicides. 6. On the Tribe of Fortune, the rump of the Long-Parliament. 7. In verba Caroli Regis dam fuit Hispanie in illud rasonis: nunc notis adversa prelia fronte gerit."</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>Great Britain --  History --  Restoration, 1660-1688 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45204:1"/>
+            <!-- PDF PAGE 37 -->
+            <pb facs="tcp:45204:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 37 -->
+            <p>ROYALL POEMS Preſented to His Sacred MAJESTY Charles the II.</p>
+            <p>By J. G. B.</p>
+            <list>
+               <item>1. On the Kings moſt excellent Majeſties happy Return to his Kingdomes.</item>
+               <item>2. <hi>Annagramma in Principem,</hi> Carolus Stuartus <hi>i. e. Ar<g ref="char:EOLhyphen"/>thur, Laus, Cuſtos.</hi>
+               </item>
+               <item>3. On the Lord <hi>Monck, Generaliſsimo</hi> of all his Majeſties Forces.</item>
+               <item>4. An Elegie on the Martyrdom of King <hi>Charles</hi> the Firſt.</item>
+               <item>5. On the Regicides.</item>
+               <item>6. On the <hi>Tribe of Fortune,</hi> the Rump of the Long-Parliament.</item>
+               <item>7. <hi>In verba</hi> Caroli <hi>Regis dum fuit Hiſpaniae in illud Naſonis: Nunc notis adverſa praelia fronte gerit.</hi>
+               </item>
+            </list>
+            <p>LONDON, Printed for R. Wood. 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poems">
+            <pb facs="tcp:45204:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 38 -->
+            <pb n="3" facs="tcp:45204:2"/>
+            <!-- PDF PAGE 38 -->
+            <head>Royal Poems.</head>
+            <div type="poem">
+               <head>On the <hi>KINGS</hi> most Excellent Majeſties happy Return to His Kingdomes.</head>
+               <l>
+                  <seg rend="decorInit">C</seg>Ome Noble <hi>Phoebus</hi> and in our Horizon</l>
+               <l>Shine, 'tis long ſince, that in confuſion</l>
+               <l>We darkly grop'd, for want of thee, the Skye</l>
+               <l>Is now clear'd by the Heavens Deity</l>
+               <l>Of oppoſing Clouds, and now our greateſt <hi>Jove</hi>
+               </l>
+               <l>With <hi>Mercury</hi> expect, that thou ſhouldeſt move</l>
+               <l>With thy reſplendant Rayes, to irradiate</l>
+               <l>Our long-afflicted and diſtreſſed State:</l>
+               <l>Come; We expect thee long, with hearty groans,</l>
+               <l>We can no longer brook vain <hi>Phaetons.</hi>
+               </l>
+               <l>Now all Malignant ſtarrs are dimn'd ſave ſome few</l>
+               <l>Ill bodying Comets, and a little Crew</l>
+               <l>Of the <hi>Galaxia</hi>'s ſtarrs, all which away</l>
+               <l>Shall ſoon hence fall, by vertue of thy Ray;</l>
+               <l>Then, I pray hither, now, And properate,</l>
+               <l>Being invited by the courſe of Fate.</l>
+            </div>
+            <div xml:lang="lat" type="poem">
+               <pb n="4" facs="tcp:45204:3"/>
+               <!-- PDF PAGE 39 -->
+               <head>Anagramma <hi>In Principeus Brittannorum</hi> Carolus Stuartus, <hi>id eſt.</hi> Ar<g ref="char:EOLhyphen"/>thur, Laus, Cuſtos.</head>
+               <l>O Rex, ecce tuo quae ſunt ſub nomine clauſa,</l>
+               <l>Arthur, Laus, Cuſtos, quae meliora, precor</l>
+               <l>Arthur es ut patriam re<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>imas, adjuncta<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> laus eſt</l>
+               <l>Quod tu Brittannis ſis decus omne tuis,</l>
+               <l>Cuſtos es quod Regna tuo tutabere Nutu</l>
+               <l>Quam fauſtum fato, nomen hoc omen habet,</l>
+               <l>Id circo quid ſtas O Princeps fortis Eremo,</l>
+               <l>Patres te invitant et bona fata, veni.</l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+               <l>Vatem hunc prehibeto optimum qui bene conjicis Euripid.</l>
+            </div>
+            <div type="poem">
+               <head>On the <hi>Lord MONCK Generaliſſimo</hi> of all His Majeſties Forces.</head>
+               <l>LEt much fam'd <hi>Egypt</hi> and the Eaſtern Coaſt</l>
+               <l>Give o're hereafter proudly for to boaſt</l>
+               <l>Of their Noble <hi>Pini,</hi> their <hi>Ptolemyes,</hi>
+               </l>
+               <l>Their Warlike <hi>Joabs</hi> and ſtout <hi>Machabees;</hi>
+               </l>
+               <l>For now <hi>England</hi> to us brave <hi>Monck</hi> hath bred,</l>
+               <l>Who doth ſurpaſs each man that ere did tread</l>
+               <l>O're conquered Foes, for ſure, no Age did ſee</l>
+               <l>The like for Valour and State-policie;</l>
+               <l>For as in Field be never did retreat,</l>
+               <l>So by his wit he now doth ſuch a feat,</l>
+               <l>That ne're was known, yet ſetling without Blood</l>
+               <l>Three great Nations, that in confuſion ſtood:</l>
+               <l>
+                  <pb n="5" facs="tcp:45204:3"/>
+                  <!-- PDF PAGE 39 -->All after Ages will confeſs with awe,</l>
+               <l>They ne're ſo ſtout a Politician ſaw;</l>
+               <l>Wit and Valour in him have made their ſeat,</l>
+               <l>Both conjoyned for to make him great:</l>
+               <l>Nor is he onely Politick and Wiſe,</l>
+               <l>But alſo Pious; for his Noble Eyes</l>
+               <l>Look on the Widdowes Cauſe and the Orphans all,</l>
+               <l>That were long wrong'd; by this brave General</l>
+               <l>Are conſidered; for which, he ſhall be</l>
+               <l>The greateſt ſtarr, ſave <hi>Phoebus</hi> in the Skye;</l>
+               <l>And this admire in him, 'bove each Conqu'ring man,</l>
+               <l>That after all Conqueſt, himſelf he Conquer can.</l>
+               <l>
+                  <hi>Fortius eſt qui ſe, quam qui fortiſſima vincit m<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>nia.</hi>
+               </l>
+            </div>
+            <div xml:lang="lat" type="elegy">
+               <head>An Elegie on the Murther of His Gracious Majeſty <hi>Charles</hi> the firſt, <date>January the 30<hi rend="sup">th</hi>. 1648.</date>
+               </head>
+               <epigraph>
+                  <q>
+                     <l>Quid ſine Pectore Corpus</l>
+                     <l>Coelum ſine ſole, regnum ſine rege.</l>
+                  </q>
+               </epigraph>
+               <l>O What is this? How is bright <hi>Phoebus</hi> gone,</l>
+               <l>Our Joy and Glory from our Horizon?</l>
+               <l>He, He, by whom, we were made moſt ſplendant,</l>
+               <l>With ſplendour bright, full and aboundant</l>
+               <l>See, by thy fall, now all the World is grown</l>
+               <l>To a diſordered Chaos and Confuſion,</l>
+               <l>Without Head or Tail; all in Obſcurity</l>
+               <l>Are involved, none knowing where to ſtay,</l>
+               <l>Nor what way to move, ſome Retrograde</l>
+               <l>Like <hi>Cancer</hi> goe, others away do fade:</l>
+               <l>Thoſe greateſt ſtarrs, are grown exorbitant,</l>
+               <l>Croſsing each other; nor is here extant</l>
+               <l>
+                  <pb n="6" facs="tcp:45204:4"/>
+                  <!-- PDF PAGE 40 -->Any order, now, or rule, but in this State</l>
+               <l>Each as high as other doth (O! ſtrange Fate)</l>
+               <l>His own will, nay, here after <hi>Phoebus</hi> loſs,</l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+               <l>Thus by the enormous, and excentrique</l>
+               <l>Courſe of the <hi>Galaxia</hi> ſtarrs, our politique</l>
+               <l>State is turn'd unto the <hi>Cyclops</hi> mode,</l>
+               <l>But at this let none admire abroad;</l>
+               <l>For this Land bread Monſters, to whom in ire</l>
+               <l>Breathed from their mouths againſt us fatal fire:</l>
+               <l>O Heavens high, how long ſhall theſe thus deal,</l>
+               <l>And make ſuch havock of the Commonweal?</l>
+            </div>
+            <div type="poem">
+               <head>On the Regicides.</head>
+               <l>'TWas ſtrange, 'twas ſtrange, and could nothing ſuffice</l>
+               <l>Theſe <hi>Canibals</hi> but that they muſt ſurprize</l>
+               <l>The Head it ſelf, and it amputate</l>
+               <l>With ſuch unnatural and deadly hate.</l>
+               <l>Was't not enough for your baſe Guts, for food</l>
+               <l>To ſuck of ſome Prime members Noble Blood:</l>
+               <l>No, no, theſe Hell-hounds muſt chop off the Head,</l>
+               <l>That on each part they may at once be fed.</l>
+               <l>O greedy Guts, O Cormandizng crew</l>
+               <l>Of ne're-fill'd Appetites, behold and view</l>
+               <l>This Tragick Act, ſhall you hot Burning Coals</l>
+               <l>Eſcape? believe there are no lurking holes</l>
+               <l>That can defend you from the Noble hand</l>
+               <l>That ſhortly comes here from bold <hi>Neptunes</hi> ſand:</l>
+               <l>Make haſt to flie, O! Lap-Wings, this my beſt advice,</l>
+               <l>From the Eagles force, or elſe ſubmit moſt wiſe,</l>
+            </div>
+            <div type="poem">
+               <pb n="7" facs="tcp:45204:4"/>
+               <!-- PDF PAGE 40 -->
+               <head>On the Tribe of Fortune, the <hi>RUMP</hi> of the Long-Parliament.</head>
+               <l>COme well-vers'd Augurs and Aſtrologers,</l>
+               <l>That by Beaſts Entrails, and the rolling Spheares</l>
+               <l>Do ſeek for new Portents, run here and ſee</l>
+               <l>A ſtrange, fatall, and monſtrous prodigie:</l>
+               <l>For now 'gainſt Nature, O ſad Deſtiny,</l>
+               <l>All is hurled moſt prepoſterouſly;</l>
+               <l>The World is turn'd upſide down, the Head now</l>
+               <l>Is become Tail, the Tail to Head doth grow;</l>
+               <l>The Worlds ſcum, Earths ſons of Nativity,</l>
+               <l>(Then <hi>Nile's</hi> head more obſcure) are raiſed on high,</l>
+               <l>The Nobles now depreſſed, every Slave</l>
+               <l>Sprung from the Dung-hill doth the Heavens braive;</l>
+               <l>The Shrubs and Underwoods on high are grown,</l>
+               <l>The tall Elms and great Cedars tumbled down:</l>
+               <l>Now the Taylor is made a bouncing Dux,</l>
+               <l>The Countrey Idiot as an Orthodox</l>
+               <l>Though no Clerk, is unto the Pulpit gone,</l>
+               <l>And for Pence and Groats doth blaterate thereon:</l>
+               <l>Nay, the poor Foot-Boy is become a Knight,</l>
+               <l>Thus, thus, our <hi>Pedes</hi> is made an <hi>Eques</hi> right.</l>
+               <l>O abſurd accidents, ſaddle henceforth the Aſs,</l>
+               <l>Dephalerate the Horſe, ſeeing it came thus to paſs:</l>
+               <l>Oh, What grief of greifs is't for to ſee</l>
+               <l>A <hi>Plebeian</hi> Crew o're men of Majeſty</l>
+               <l>To domineer, it is intollerable</l>
+               <l>To ſee Batts and Owls rule thus or'e an Eagle</l>
+               <l>And glorious Birds; I am all on fire,</l>
+               <l>Not all the Thames can quench my raging ire;</l>
+               <l>
+                  <pb n="8" facs="tcp:45204:5"/>
+                  <!-- PDF PAGE 41 -->
+Give ſtrength to us, give ſtrength, O Heavens high,</l>
+               <l>To rid our ſelves from ſuch a ſlavery,</l>
+               <l>O <hi>Tribe of Fortune,</hi> whoſe turn did evene</l>
+               <l>To walk a while proudly on Fortunes Scene:</l>
+               <l>Your turn comes now, and you with all be brought</l>
+               <l>On the ſame Stage, ſhag-ragg'd as you ought.</l>
+            </div>
+            <div xml:lang="lat" type="poem">
+               <head>In Verba Caroli Regis dum fuit Hiſpaniae in illud Naſonis: Nunc notus adverſa praelia fronte gerit.</head>
+               <l>IPſe notum contra, oppoſitum pugnare videbas,</l>
+               <l>Quondam temporibus Naſo Poeta tuis:</l>
+               <l>O <g ref="char:V">Ʋ</g>tinam contra opponens nunc robore mecum</l>
+               <l>Hic notus adverſa praeliae fronte gerat.</l>
+               <p>Nota quod notus a Naſone pro vento qui perſtabatur noto figu<g ref="char:EOLhyphen"/>rate ſumebatur, ab Authore ſumitur natus pro populo qui in Nota habitant eadem figura, Contimens pro Contento.</p>
+               <closer>
+                  <signed>
+                     <hi>Henry Vaughan,</hi> Cambro Britt.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:45204:5"/>
+            <!-- PDF PAGE 41 -->
+         </div>
+      </body>
+   </text>
+</TEI>
